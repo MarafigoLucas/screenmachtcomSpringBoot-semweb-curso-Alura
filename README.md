@@ -127,5 +127,5 @@ Este projeto é licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE)
 
 ## ✉️ Contato
 
-Criado por **Lucas Marafigo** - [LinkedIn](https://www.linkedin.com/in/marafigo/) | [GitHub](https://github.com/MarafigoLucas)
+Criado por **Lucas Marafigo** - [LinkedIn](https://www.linkedin.com/in/lucas-marafigo-2997832ab/) | [GitHub](https://github.com/MarafigoLucas)
 
